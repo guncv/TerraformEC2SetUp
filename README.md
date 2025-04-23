@@ -1,7 +1,3 @@
-To enhance your `README.md` for your Terraform EC2 setup project, you can include a more detailed explanation of the project structure, how to use the scripts, and any dependencies or requirements. Here's an enhanced version of your `README.md`:
-
----
-
 # Terraform EC2 Setup with Wordpress and MariaDB
 
 ## Overview
